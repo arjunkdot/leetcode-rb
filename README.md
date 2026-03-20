@@ -1,7 +1,7 @@
 # LeetCode Solutions in Ruby
 ![LeetCode Solutions in Ruby](.github/banner.jpg "LeetCode Solutions in Ruby")
 
-About This repo is the Ruby counterpart of the leetcode-js. Each problem's solution is organized by difficulty. Resources
+This repo is the Ruby counterpart of the leetcode-js. Each problem's solution is organized by difficulty. Resources
 
 Feel free to ask if you need any more help!
 
