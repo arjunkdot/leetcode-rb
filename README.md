@@ -1,4 +1,7 @@
 # LeetCode Solutions in Ruby
+> [!WARNING]
+> This repository is no longer maintained on GitHub and has moved to [Codeberg](https://codeberg.org/arjunkdot/leetcode-rb).
+
 ![LeetCode Solutions in Ruby](.github/banner.jpg "LeetCode Solutions in Ruby")
 
 This repo is the Ruby counterpart of the leetcode-js. Each problem's solution is organized by difficulty. Resources
