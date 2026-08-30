@@ -1,6 +1,4 @@
 # LeetCode Solutions in Ruby
-> [!WARNING]
-> This repository is no longer maintained on GitHub and has moved to [Codeberg](https://codeberg.org/arjunkdot/leetcode-rb).
 
 ![LeetCode Solutions in Ruby](.github/banner.jpg "LeetCode Solutions in Ruby")
 
